@@ -1,0 +1,11 @@
+{
+	"name": "PuzzleCatsVK",
+	"short_name": "PuzzleCatsVK",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#122751",
+	"icons": [],
+	"theme_color": "#122751"
+}
